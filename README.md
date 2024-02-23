@@ -9,17 +9,3 @@
 <a href="https://www.hackerrank.com/sagarbisht509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
  <a href="https://twitter.com/sagar__bisht"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <br><br>
-
-
-<br/>
-<h2 align="center"> Github Statistics 📈</h2>
- 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarbisht509&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarbisht509&layout=compact&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sagarbisht509&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</a><br><br>
