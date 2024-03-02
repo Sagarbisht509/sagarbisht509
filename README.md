@@ -17,3 +17,10 @@ _**LATEST UPDATE:**_ <i>Learning kotlin multiplatform & jetpack compose :) </i>
 <a href="https://www.hackerrank.com/sagarbisht509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
  <a href="https://twitter.com/sagar__bisht"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <br><br>
+
+**My github stats**
+<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=sagarbisht509&count_private=true&show_icons=true&theme=radical" />
+
+**My Activity**
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarbisht509&" alt="sagar" /></p>
